@@ -10,4 +10,4 @@ capital-gain: desc
 capital-loss: desc
 hours-per-week: desc
 native-country: desc
-classes: [<50k, >50k]
+classes: [less than 50k, more than 50k]
