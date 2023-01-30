@@ -1,0 +1,13 @@
+age: int
+workclass: int
+education: int
+marital-status: desc
+occupation: desc
+relationship: desc
+race: desc
+gender: desc
+capital-gain: desc
+capital-loss: desc
+hours-per-week: desc
+native-country: desc
+classes: [<50k, >50k]
